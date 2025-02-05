@@ -52,26 +52,8 @@ SIMD-powered calculations
 Smooth C/Lua communication
 Smart memory management
 
-Quick Start
-luaCopylocal life = require("life-machine")
 
--- Set up your world
-life.init({
-    size = 1024,
-    cells = 1000000,
-    mut_rate = 0.001
-})
-
--- Add starter cells
-life.seed(100)
-
--- Let it rip
-life.run()
-Want more? Check out examples/ or dive into docs/.
-Join In
-Got ideas? Pull requests welcome! See CONTRIBUTING.md
 License
 MIT - See LICENSE
 
-Built with LÖVE, LuaJIT, and raw computation power. Questions? Issues? Head to our Discussions.
-Simple, direct, and focused on the cool stuff. Need any specific part explained in more detail?
+Built with LÖVE, LuaJIT, and raw computation power.
