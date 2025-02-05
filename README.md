@@ -13,8 +13,6 @@ Real-time Viewing: Watch evolution happen or fast-forward through generations
 Data Tracking: Monitor populations, genetics, and environmental changes
 
 Getting Started
-bashCopy# Clone it
-git clone https://github.com/yourusername/life-machine.git
 
 # Build the core
 cd life-machine/core
